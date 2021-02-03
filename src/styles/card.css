@@ -1,0 +1,24 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    text-align: center;
+    margin: 20px auto;
+    border: 3px solid black;
+    border-radius: 5%;
+    overflow: hidden;
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+
+.conteudo{
+    background-color: white;
+    color: black;
+    justify-content: center;
+    padding: 10px;
+    flex-grow: 1;
+}

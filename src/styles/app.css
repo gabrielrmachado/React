@@ -1,0 +1,12 @@
+#App #cards{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#App h1{
+    color: white;
+    margin: 30px 0;
+    font-size: 36px;
+    text-align: center;
+    text-decoration: underline;
+}
